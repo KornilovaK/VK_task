@@ -1,0 +1,8 @@
+datasets==3.0.2
+torch==2.4.1
+pandas==2.2.2
+tqdm==4.66.5
+matplotlib==3.7.1
+statsmodels==0.14.4
+transformers==4.44.2
+numpy==1.26.4
